@@ -1,0 +1,9 @@
+{
+  "name": "node_poc",
+  "version": "0.0.0",
+  "licence": "MIT",
+  "author": {
+    "name": "Daniel Ortega",
+    "email": "darthega@gmail.com"
+  }
+}
